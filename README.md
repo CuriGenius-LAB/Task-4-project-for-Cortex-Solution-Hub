@@ -1,1 +1,1 @@
-# Task-4-project-for-Cortex-Solution-Hub
+# Frameworks used in that project<br> React js <br> Tailwind css
